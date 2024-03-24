@@ -15,7 +15,6 @@
             "11月",
             "12月"
         ],
-       
         "month": [
             "1月",
             "2月",
@@ -33,13 +32,6 @@
     },
     "api": {
         "wikipedia": "cn"
-    },
-    "messages": {
-        "loading": "加载中",
-        "return_to_title": "タイトルへ戻ります",
-        "wikipedia": "出典：フリー百科事典『ウィキペディア（Wikipedia）』",
-        "loading_content": "正在加载内容",
-        "loading_timeline": "时间线加载中…"
     },
     "dateformats": {
         "full_long": "yyyy年m月d日 H时M分s秒",
